@@ -31,4 +31,5 @@ The system operates by continuously analyzing video frames from a webcam, perfor
     * Audible alarms are played using the `espeak` command-line tool.
     * These alarms run in separate **Python threads** (`threading.Thread`) to ensure they do not block the main video processing loop, maintaining real-time performance.
 
----
+ ## Shape_predictor_68_face_landmarks link (kaggle)
+https://www.kaggle.com/datasets/sajikim/shape-predictor-68-face-landmarks
